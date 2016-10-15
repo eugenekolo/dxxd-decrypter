@@ -7,8 +7,8 @@ Decrypt your files encrypted by the DXXD ransomware.
 Usage
 =====
 ```
-dxxd-decrypter <file_encrypted_by_dxxd> <desired_output_file_name> 
-dxxd-decrypter test\Desert.jpgdxxd test\DesertDecrypted.jpg
+dxxd-decrypter.exe <file_encrypted_by_dxxd> <desired_output_file_name> 
+dxxd-decrypter.exe test\Desert.jpgdxxd test\DesertDecrypted.jpg
 ```
 
 Backstory
